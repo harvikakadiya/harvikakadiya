@@ -1,4 +1,4 @@
-![Header](./IICcDPIKX0.webm)
+![Header](./intersecting-waves-scattered.svg)
 
 <!--
 **harvikakadiya/harvikakadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
