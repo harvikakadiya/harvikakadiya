@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Harvi Kakadiya
+![Header](./genetic-data-svgrepo-com.svg)
 
 <!--
 **harvikakadiya/harvikakadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
