@@ -34,7 +34,6 @@
 <div align="center">
 <a href="https://github.com/shreya-001">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harvikakadiya&theme=onedark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harvikakadiya&theme=onedark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harvikakadiya&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harvikakadiya&theme=onedark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harvikakadiya&theme=onedark" height="180em" />
