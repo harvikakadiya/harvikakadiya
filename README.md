@@ -1,18 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<!--
-**harvikakadiya/harvikakadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning GenAI, Predictive Modeling, AWS Machine Learning Specialty
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Machine Learning, Natural Language Processing
-- 📫 How to reach me: harvikakadiya1412@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Harvi Kakadiya</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
