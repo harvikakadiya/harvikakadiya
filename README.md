@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#000b76" fill-opacity="0.5" d="M0,224L30,197.3C60,171,120,117,180,96C240,75,300,85,360,106.7C420,128,480,160,540,149.3C600,139,660,85,720,80C780,75,840,117,900,154.7C960,192,1020,224,1080,224C1140,224,1200,192,1260,165.3C1320,139,1380,117,1410,106.7L1440,96L1440,0L1410,0C1380,0,1320,0,1260,0C1200,0,1140,0,1080,0C1020,0,960,0,900,0C840,0,780,0,720,0C660,0,600,0,540,0C480,0,420,0,360,0C300,0,240,0,180,0C120,0,60,0,30,0L0,0Z"></path></svg>
+
 <h1 align="center">Hi 👋, I'm Harvi Kakadiya</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
