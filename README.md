@@ -1,5 +1,18 @@
 ![Header](./welcome_cover_design.gif)
 
+<script
+  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js"
+  type="module"
+></script>
+
+<dotlottie-wc
+  src="https://lottie.host/f3d68d3a-08de-4667-aa9b-9333f0b6dcba/hk7BaWwstS.lottie"
+  style="width: 300px;height: 300px"
+  speed="1"
+  autoplay
+  loop
+></dotlottie-wc>
+
 <h1 align="center">Hi 👋, I'm Harvi Kakadiya</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
