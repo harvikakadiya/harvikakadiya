@@ -1,4 +1,4 @@
-![Header](./welcome_profile.mp4)
+![Header](./welcome_profile.gif)
 
 <h1 align="center">Hi 👋, I'm Harvi Kakadiya</h1>
 <h3 align="center">Machine Learning Engineer</h3>
