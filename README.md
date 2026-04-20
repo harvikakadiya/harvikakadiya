@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Natural Language Processing, Deep Learning, Gen AI**
 
-- 💬 Ask me about **Machine Learning, Data Visualization**
+- 💬 Ask me about **harvi-kakadiya.top**
+
+- 💬 Know more about me **Data Analysis, Machine Learning, Data Visualization**
 
 - 📫 How to reach me **harvikakadiya1412@gmail.com**
 
