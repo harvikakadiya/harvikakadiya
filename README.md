@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 - 🎓 AI & ML Graduate from Lambton College (2025)
-- 💼 2+ years of experience in **Data Analysis & Machine Learning**
+- 💼 3+ years of experience in **Data Analysis & Machine Learning**
 - 🌱 Currently exploring **NLP, Deep Learning, and Generative AI**
 - 📊 Strong in **data-driven decision making & visualization**
 - 📫 Reach me: **harvikakadiya1412@gmail.com**
